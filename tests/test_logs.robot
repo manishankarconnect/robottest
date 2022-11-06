@@ -6,7 +6,7 @@ Documentation     A test suite for valid login.
 Default Tags      Positive
 
 *** Test Cases ***
-TestCase
+TestCase#1
     Log    Helloworld
     Log    Messages
     Log    New Messages
